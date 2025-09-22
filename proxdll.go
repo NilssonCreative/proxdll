@@ -1,5 +1,5 @@
-// Package proxy provides a generic framework for creating proxy DLLs.
-package proxy
+// Package proxdll provides a generic framework for creating proxy DLLs.
+package proxdll
 
 import (
 	"fmt"
